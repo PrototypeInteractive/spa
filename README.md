@@ -22,7 +22,7 @@ In principle, it overrides the **href** and **submit** tags on a page, so when y
 
 ##How do we add real-time widgets?
 
-However you wish, as the site becomes one page, so long as you make sure your persistent components are referenced by global variables, they should effectively persist between pages. In addition we currently use a global callback array to you can install a handler to be called every time someone switches pages, like so;
+However you wish, as the site becomes one page, so long as you make sure your persistent components are referenced by global variables, they should effectively persist between pages. In addition we currently use a global callback array so you can install a handler to be called every time someone switches pages, like so;
 
 ```javascript
 // my real-time app
