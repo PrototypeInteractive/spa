@@ -42,3 +42,10 @@ This is an initial release, there is a reasonable chance that adding this code t
 ##Wordpress plugin
 
 Type **make**, this will yield a zip file in the **dist** folder. This can then be installed on your wordpress site by installing from the control panel using the **upload file** option.
+
+##Example sites
+
+* [https://linux.co.uk/](https://linux.co.uk/)
+* [https://linuxforums.org.uk/] (https://linuxforums.org.uk/)
+* [https://peppermintos.com/] (https://peppermintos.com/)
+* [http://nutpress.co.uk/] (http://nutpress.co.uk/)
