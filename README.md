@@ -38,3 +38,7 @@ Obviously lots, but bugs aside it's predominantly likely to be people coding usi
 ##Warning:
 
 This is an initial release, there is a reasonable chance that adding this code to your site may cause something on your site not to function as it might normally, please test exhaustively on a backup site before taking this anywhere near your live site. Once you have it up (live or otherwise) please let is know!
+
+##Wordpress plugin
+
+Type **make**, this will yield a zip file in the **dist** folder. This can then be installed on your wordpress site by installing from the control panel using the **upload file** option.
