@@ -49,3 +49,5 @@ Type **make**, this will yield a zip file in the **dist** folder. This can then 
 * [https://linuxforums.org.uk/](https://linuxforums.org.uk/)
 * [https://peppermintos.com/](https://peppermintos.com/)
 * [http://nutpress.co.uk/](http://nutpress.co.uk/)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MGF6AU8SWLFJL)
