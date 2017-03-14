@@ -46,6 +46,6 @@ Type **make**, this will yield a zip file in the **dist** folder. This can then 
 ##Example sites
 
 * [https://linux.co.uk/](https://linux.co.uk/)
-* [https://linuxforums.org.uk/] (https://linuxforums.org.uk/)
-* [https://peppermintos.com/] (https://peppermintos.com/)
-* [http://nutpress.co.uk/] (http://nutpress.co.uk/)
+* [https://linuxforums.org.uk/](https://linuxforums.org.uk/)
+* [https://peppermintos.com/](https://peppermintos.com/)
+* [http://nutpress.co.uk/](http://nutpress.co.uk/)
